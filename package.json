@@ -1,5 +1,6 @@
 {
   "name": "animalec",
+  "Author": "Fábio Calixto",
   "version": "0.1.0",
   "private": true,
   "scripts": {
